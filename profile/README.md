@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://the-abacus-foundation.pages.dev">Website</a> &nbsp;·&nbsp;
+  <a href="https://theabacusfoundation.org">Website</a> &nbsp;·&nbsp;
   <a href="https://budget.theabacus.org">Budget App</a> &nbsp;·&nbsp;
   <a href="https://theabacus.org">Calculators</a> &nbsp;·&nbsp;
   <a href="https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335">iOS App</a>
