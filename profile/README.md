@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10b981:0ea5e9&height=120&section=header" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:ec4899,50:10b981,75:f59e0b,100:0ea5e9&height=120&section=header" width="100%" alt="header" />
 
 # The Abacus Foundation
 
-<img src="https://readme-typing-svg.demolab.com/demolab/demo?lines=Technology+That+Empowers+Everyone;Free+·+Private+·+Accessible&center=true&color=10B981&size=22&duration=4000&font=Fira+Code&width=500" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com/demolab/demo?lines=Technology+That+Empowers+Everyone;Free+·+Private+·+Accessible&center=true&color=EC4899&size=22&duration=4000&font=Fira+Code&width=500" alt="typing animation" />
 
 <p>
   We are a <strong>non-profit technology organization</strong> building free, private, and accessible tools for everyday life — and providing pro-bono technology services to non-profit organizations worldwide.
@@ -24,7 +24,7 @@
   <a href="https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335"><b>iOS App</b></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10b981:0ea5e9&height=80&section=footer" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:ec4899,50:10b981,75:f59e0b,100:0ea5e9&height=80&section=footer" width="100%" alt="divider" />
 
 </div>
 
@@ -88,13 +88,13 @@ We provide **pro-bono technology services** to other non-profits: mobile apps, w
 ### 🚀 Coming soon
 
 <p>
-  <img src="https://img.shields.io/badge/Timesheet_monitoring-coming_soon-64748b?style=flat-square" alt="" />
-  <img src="https://img.shields.io/badge/Budget_iOS-coming_soon-64748b?style=flat-square" alt="" />
-  <img src="https://img.shields.io/badge/Accounting_software-coming_soon-64748b?style=flat-square" alt="" />
-  <img src="https://img.shields.io/badge/License_reminders-coming_soon-64748b?style=flat-square" alt="" />
-  <img src="https://img.shields.io/badge/Business_card_scanner-coming_soon-64748b?style=flat-square" alt="" />
-  <img src="https://img.shields.io/badge/QR_generator-coming_soon-64748b?style=flat-square" alt="" />
-  <img src="https://img.shields.io/badge/Asset_management-coming_soon-64748b?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Timesheet_monitoring-coming_soon-6366f1?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Budget_iOS-coming_soon-ec4899?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Accounting_software-coming_soon-10b981?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/License_reminders-coming_soon-f59e0b?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Business_card_scanner-coming_soon-0ea5e9?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/QR_generator-coming_soon-8b5cf6?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Asset_management-coming_soon-f43f5e?style=flat-square" alt="" />
 </p>
 
 ---
@@ -177,7 +177,7 @@ Spread the word, report bugs, suggest features.
 
 **📄** Organization default: **Apache License 2.0** · Individual repos may use MIT or other permissive licenses.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10b981:0ea5e9&height=80&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:ec4899,50:10b981,75:f59e0b,100:0ea5e9&height=80&section=footer" width="100%" alt="footer" />
 
 ### **Built for Trust. Built for Education.**
 
