@@ -1,86 +1,184 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10b981:0ea5e9&height=120&section=header" width="100%" alt="header" />
+
 # The Abacus Foundation
 
-<p align="center">
-  <strong>Free, private, and accessible technology for everyone.</strong>
+<img src="https://readme-typing-svg.demolab.com/demolab/demo?lines=Technology+That+Empowers+Everyone;Free+·+Private+·+Accessible&center=true&color=10B981&size=22&duration=4000&font=Fira+Code&width=500" alt="typing animation" />
+
+<p>
+  We are a <strong>non-profit technology organization</strong> building free, private, and accessible tools for everyday life — and providing pro-bono technology services to non-profit organizations worldwide.
 </p>
 
-<p align="center">
-  We are a non-profit organization dedicated to building free, private, and accessible tools for everyday life. We believe technology should <strong>empower people through transparency</strong> — no lock-in, no tracking, no paywalls.
+<p>
+  <a href="https://theabacusfoundation.org"><img src="https://img.shields.io/badge/🌐_Website-theabacusfoundation.org-10b981?style=for-the-badge&logo=link" alt="Website" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-0ea5e9?style=for-the-badge" alt="License" /></a>
+  <a href="https://github.com/The-Abacus-Foundation"><img src="https://img.shields.io/badge/Open_Source-100%25-8b5cf6?style=for-the-badge&logo=github" alt="Open Source" /></a>
+  <a href="mailto:contact@theabacus.org"><img src="https://img.shields.io/badge/Non--Profit-Contact_us-f59e0b?style=for-the-badge" alt="Non-Profit" /></a>
 </p>
 
-<p align="center">
-  <a href="https://theabacusfoundation.org">Website</a> &nbsp;·&nbsp;
-  <a href="https://budget.theabacus.org">Budget App</a> &nbsp;·&nbsp;
-  <a href="https://theabacus.org">Calculators</a> &nbsp;·&nbsp;
-  <a href="https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335">iOS App</a>
+<p>
+  <a href="https://theabacusfoundation.org"><b>Website</b></a> &nbsp;·&nbsp;
+  <a href="https://budget.theabacus.org"><b>Budget App</b></a> &nbsp;·&nbsp;
+  <a href="https://theabacus.org"><b>Calculators</b></a> &nbsp;·&nbsp;
+  <a href="https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335"><b>iOS App</b></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10b981:0ea5e9&height=80&section=footer" width="100%" alt="divider" />
+
+</div>
 
 ---
 
-## Our Mission
+<table>
+<tr>
+<td width="50%" align="center">
 
-We build **free**, **private**, and **accessible** software that people can trust:
+### 🎯 Mission
 
-| Principle | What it means for us |
-|-----------|----------------------|
-| **Free** | No subscriptions, no premium tiers. Our tools are free to use and open when possible. |
-| **Private** | Your data stays on your device or under your control. We minimize tracking and avoid selling data. |
-| **Accessible** | Clear design, keyboard/screen-reader friendly, and usable on the devices people already have. |
+We believe technology should **empower people through transparency, trust, and education** — no lock-in, no tracking, no paywalls.
 
-We also provide **pro-bono technology services** to other non-profits — from iOS/Android apps to web development, cloud infrastructure, and technical consulting.
+We provide **pro-bono technology services** to other non-profits: mobile apps, web, cloud, and consulting.
+
+</td>
+<td width="50%" align="center">
+
+### ✨ Principles
+
+| | |
+|:---:|---|
+| **🆓 Free** | No subscriptions, no paywalls |
+| **🔒 Private** | Your data stays on your device |
+| **📂 Open** | Open source — verify everything |
+| **♿ Accessible** | Clear design, works for everyone |
+
+</td>
+</tr>
+</table>
 
 ---
 
-## What We Build
+## 🛠️ What We Build
 
 ### Live products
 
-| Product | Description |
-|---------|-------------|
-| **[The Abacus Budget](https://budget.theabacus.org)** | Local-first personal finance: cloud save, receipt scanning, encryption. |
-| **[The Abacus Calculators](https://theabacus.org)** | 58 free calculators for financial, fitness, math, and engineering. |
-| **[Abacus Calculators Suite (iOS)](https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335)** | Native iOS / iPadOS / macOS app built with Swift and SwiftUI. |
-| **[Foundation website](https://the-abacus-foundation.pages.dev)** | Our public site and project hub. |
+<table>
+<tr>
+<th width="28%">Product</th>
+<th>Description</th>
+</tr>
+<tr>
+<td><b><a href="https://budget.theabacus.org">The Abacus Budget</a></b></td>
+<td>Local-first personal finance: track expenses, budgets, receipt scanning, optional cloud save, encryption.</td>
+</tr>
+<tr>
+<td><b><a href="https://theabacus.org">The Abacus Calculators</a></b></td>
+<td>58+ free calculators (financial, fitness, math, engineering) — works offline, no account needed.</td>
+</tr>
+<tr>
+<td><b><a href="https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335">Abacus iOS</a></b></td>
+<td>Native iOS, iPadOS & macOS app built with Swift 6 and SwiftUI.</td>
+</tr>
+<tr>
+<td><b><a href="https://the-abacus-foundation.pages.dev">Foundation site</a></b></td>
+<td>Public site, project hub, volunteer program.</td>
+</tr>
+</table>
 
-### In the pipeline
+### 🚀 Coming soon
 
-- Timesheet monitoring (privacy-respecting time tracking)
-- Budget iOS app
-- Lightweight accounting for small businesses
-- Business licenses & reminders
-- Business card scanner (on-device)
-- QR code generator (offline)
-- Asset management, investment property tracker, and more
-
----
-
-## Get Involved
-
-- **Use our tools** — Try [Budget](https://budget.theabacus.org), [Calculators](https://theabacus.org), or the [iOS app](https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335) and share feedback.
-- **Contribute** — Check our repositories for open issues and contribution guidelines. Code, docs, and design help are welcome.
-- **Partner** — If you’re a non-profit needing tech help, we offer pro-bono services in development, infrastructure, and consulting.
-- **Support** — Spread the word, report bugs, or suggest features. Every bit helps.
-
----
-
-## Contact
-
-| Purpose | Email |
-|---------|--------|
-| General inquiries | [contact@theabacus.org](mailto:contact@theabacus.org) |
-| Technical support | [support@theabacus.org](mailto:support@theabacus.org) |
-| Non-profit partnerships | [partners@theabacus.org](mailto:partners@theabacus.org) |
-| Volunteers & contributors | [volunteer@theabacus.org](mailto:volunteer@theabacus.org) / [dev@theabacus.org](mailto:dev@theabacus.org) |
-| Foundation & sponsors | [foundation@theabacus.org](mailto:foundation@theabacus.org) |
-
----
-
-## License
-
-Organization default repository license: **Apache License 2.0**. Individual projects may use MIT or other permissive licenses — see each repository for details.
-
----
-
-<p align="center">
-  <strong>Built for Trust. Built for Education.</strong>
+<p>
+  <img src="https://img.shields.io/badge/Timesheet_monitoring-coming_soon-64748b?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Budget_iOS-coming_soon-64748b?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Accounting_software-coming_soon-64748b?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/License_reminders-coming_soon-64748b?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Business_card_scanner-coming_soon-64748b?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/QR_generator-coming_soon-64748b?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Asset_management-coming_soon-64748b?style=flat-square" alt="" />
 </p>
+
+---
+
+## 🤝 Get involved
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🙌 Use our tools**
+
+Try Budget, Calculators, or the iOS app and share feedback.
+
+</td>
+<td width="33%" align="center">
+
+**💻 Contribute**
+
+Open issues, PRs, docs, and design — all welcome.
+
+</td>
+<td width="33%" align="center">
+
+**🤝 Partner**
+
+Non-profit? We offer pro-bono dev, infra, and consulting.
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+**🎓 Volunteer**
+
+Hands-on experience on real production apps.
+
+<a href="mailto:volunteer@theabacus.org"><img src="https://img.shields.io/badge/Apply-volunteer@theabacus.org-8b5cf6?style=for-the-badge" alt="Volunteer" /></a>
+
+</td>
+<td width="33%" align="center">
+
+**❤️ Support**
+
+Spread the word, report bugs, suggest features.
+
+<a href="mailto:contact@theabacus.org"><img src="https://img.shields.io/badge/Get_in_touch-contact@theabacus.org-10b981?style=for-the-badge" alt="Contact" /></a>
+
+</td>
+<td width="33%" align="center">
+
+**📂 Repos**
+
+<a href="https://github.com/The-Abacus-Foundation"><img src="https://img.shields.io/badge/GitHub-The--Abacus--Foundation-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📬 Contact
+
+<table>
+<tr>
+<th>Purpose</th>
+<th>Email</th>
+</tr>
+<tr><td>General</td><td><a href="mailto:contact@theabacus.org">contact@theabacus.org</a></td></tr>
+<tr><td>Support</td><td><a href="mailto:support@theabacus.org">support@theabacus.org</a></td></tr>
+<tr><td>Partners</td><td><a href="mailto:partners@theabacus.org">partners@theabacus.org</a></td></tr>
+<tr><td>Foundation & sponsors</td><td><a href="mailto:foundation@theabacus.org">foundation@theabacus.org</a></td></tr>
+<tr><td>Volunteer</td><td><a href="mailto:volunteer@theabacus.org">volunteer@theabacus.org</a></td></tr>
+<tr><td>Developers</td><td><a href="mailto:dev@theabacus.org">dev@theabacus.org</a></td></tr>
+</table>
+
+---
+
+<div align="center">
+
+**📄** Organization default: **Apache License 2.0** · Individual repos may use MIT or other permissive licenses.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10b981:0ea5e9&height=80&section=footer" width="100%" alt="footer" />
+
+### **Built for Trust. Built for Education.**
+
+</div>
