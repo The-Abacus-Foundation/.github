@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:ec4899,50:10b981,75:f59e0b,100:0ea5e9&height=120&section=header" width="100%" alt="header" />
 
+## A non-profit technology organization
+
+**We are a [non-profit technology organization](https://theabacusfoundation.org)** building free, private, and accessible tools for everyday life — and providing pro-bono technology services to non-profit organizations worldwide.
+
 # The Abacus Foundation
 
 <img src="https://readme-typing-svg.demolab.com/demolab/demo?lines=Technology+That+Empowers+Everyone;Free+·+Private+·+Accessible&center=true&color=EC4899&size=22&duration=4000&font=Fira+Code&width=500" alt="typing animation" />
-
-<p>
-  We are a <strong>non-profit technology organization</strong> building free, private, and accessible tools for everyday life — and providing pro-bono technology services to non-profit organizations worldwide.
-</p>
 
 <p>
   <a href="https://theabacusfoundation.org"><img src="https://img.shields.io/badge/🌐_Website-theabacusfoundation.org-10b981?style=for-the-badge&logo=link" alt="Website" /></a>
@@ -19,10 +19,14 @@
 
 <p>
   <a href="https://theabacusfoundation.org"><b>Website</b></a> &nbsp;·&nbsp;
-  <a href="https://budget.theabacus.org"><b>Budget App</b></a> &nbsp;·&nbsp;
-  <a href="https://theabacus.org"><b>Calculators</b></a> &nbsp;·&nbsp;
+  <a href="https://accounting.theabacus.org"><b>Accounting (web)</b></a> &nbsp;·&nbsp;
+  <a href="https://pdf.theabacus.org"><b>PDF (web)</b></a> &nbsp;·&nbsp;
+  <a href="https://theabacus.org"><b>Calculators (web)</b></a> &nbsp;·&nbsp;
   <a href="https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335"><b>iOS App</b></a>
 </p>
+
+**Desktop app downloads (Windows, macOS, Linux):**  
+[Accounting — release v4.0.1](https://github.com/The-Abacus-Foundation/The-Abacus-App-Download/releases/tag/v4.0.1) &nbsp;·&nbsp; [Accounting — `assets/accounting/`](https://github.com/The-Abacus-Foundation/The-Abacus-App-Download/tree/main/assets/accounting) &nbsp;·&nbsp; [PDF — `assets/pdf/`](https://github.com/The-Abacus-Foundation/The-Abacus-App-Download/tree/main/assets/pdf)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:ec4899,50:10b981,75:f59e0b,100:0ea5e9&height=80&section=footer" width="100%" alt="divider" />
 
@@ -68,16 +72,20 @@ We provide **pro-bono technology services** to other non-profits: mobile apps, w
 <th>Description</th>
 </tr>
 <tr>
-<td><b><a href="https://budget.theabacus.org">The Abacus Budget</a></b></td>
-<td>Local-first personal finance: track expenses, budgets, receipt scanning, optional cloud save, encryption.</td>
+<td><b><a href="https://accounting.theabacus.org">The Abacus Accounting</a></b><br><sub>Desktop: <a href="https://github.com/The-Abacus-Foundation/The-Abacus-App-Download/releases/tag/v4.0.1">download v4.0.1</a></sub></td>
+<td>Lightweight accounting for small business — use in the browser or install the desktop app (Windows, macOS, Linux).</td>
+</tr>
+<tr>
+<td><b><a href="https://pdf.theabacus.org">The Abacus PDF</a></b><br><sub>Desktop: <a href="https://github.com/The-Abacus-Foundation/The-Abacus-App-Download/tree/main/assets/pdf">installers in repo</a></sub></td>
+<td>Merge, split, compress, and convert PDFs in the browser — or use native installers from our download repo.</td>
 </tr>
 <tr>
 <td><b><a href="https://theabacus.org">The Abacus Calculators</a></b></td>
-<td>58+ free calculators (financial, fitness, math, engineering) — works offline, no account needed.</td>
+<td>58+ free calculators (financial, fitness, math, engineering) — same privacy-first values as the rest of the suite; web and <a href="https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335">iOS</a>.</td>
 </tr>
 <tr>
 <td><b><a href="https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335">Abacus iOS</a></b></td>
-<td>Native iOS, iPadOS & macOS app built with Swift 6 and SwiftUI.</td>
+<td>Native iOS, iPadOS &amp; macOS app built with Swift 6 and SwiftUI.</td>
 </tr>
 <tr>
 <td><b><a href="https://the-abacus-foundation.pages.dev">Foundation site</a></b></td>
@@ -89,8 +97,6 @@ We provide **pro-bono technology services** to other non-profits: mobile apps, w
 
 <p>
   <img src="https://img.shields.io/badge/Timesheet_monitoring-coming_soon-6366f1?style=flat-square" alt="" />
-  <img src="https://img.shields.io/badge/Budget_iOS-coming_soon-ec4899?style=flat-square" alt="" />
-  <img src="https://img.shields.io/badge/Accounting_software-coming_soon-10b981?style=flat-square" alt="" />
   <img src="https://img.shields.io/badge/License_reminders-coming_soon-f59e0b?style=flat-square" alt="" />
   <img src="https://img.shields.io/badge/Business_card_scanner-coming_soon-0ea5e9?style=flat-square" alt="" />
   <img src="https://img.shields.io/badge/QR_generator-coming_soon-8b5cf6?style=flat-square" alt="" />
@@ -107,7 +113,7 @@ We provide **pro-bono technology services** to other non-profits: mobile apps, w
 
 **🙌 Use our tools**
 
-Try Budget, Calculators, or the iOS app and share feedback.
+Try Accounting, PDF, Calculators, or the iOS app and share feedback.
 
 </td>
 <td width="33%" align="center">
