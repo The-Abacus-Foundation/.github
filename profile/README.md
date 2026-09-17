@@ -1,60 +1,105 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:ec4899,50:10b981,75:f59e0b,100:0ea5e9&height=120&section=header" width="100%" alt="header" />
+<img src="banner.svg" alt="The Abacus Foundation" width="100%" />
 
-## A non-profit technology organization
+<br/>
 
-**We are a [non-profit technology organization](https://theabacusfoundation.org)** building free, private, and accessible tools for everyday life — and providing pro-bono technology services to non-profit organizations worldwide.
+**A non-profit technology organization** building free, private tools for everyday life — and shipping custom software for organizations that need something purpose-built.
 
-# The Abacus Foundation
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com/demolab/demo?lines=Technology+That+Empowers+Everyone;Free+·+Private+·+Accessible&center=true&color=EC4899&size=22&duration=4000&font=Fira+Code&width=500" alt="typing animation" />
-
-<p>
-  <a href="https://theabacusfoundation.org"><img src="https://img.shields.io/badge/🌐_Website-theabacusfoundation.org-10b981?style=for-the-badge&logo=link" alt="Website" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-0ea5e9?style=for-the-badge" alt="License" /></a>
-  <a href="https://github.com/The-Abacus-Foundation"><img src="https://img.shields.io/badge/Open_Source-100%25-8b5cf6?style=for-the-badge&logo=github" alt="Open Source" /></a>
-  <a href="mailto:contact@theabacus.org"><img src="https://img.shields.io/badge/Non--Profit-Contact_us-f59e0b?style=for-the-badge" alt="Non-Profit" /></a>
-</p>
+[![Website](https://img.shields.io/badge/Website-theabacusfoundation.org-0d9488?style=for-the-badge)](https://theabacusfoundation.org)
+[![License](https://img.shields.io/badge/License-Apache%202.0-4f46e5?style=for-the-badge)](https://github.com/The-Abacus-Foundation/.github/blob/main/LICENSE)
+[![Open source](https://img.shields.io/badge/Open_source-GitHub-0f172a?style=for-the-badge&logo=github)](https://github.com/The-Abacus-Foundation)
 
 <p>
-  <a href="https://theabacusfoundation.org"><b>Website</b></a> &nbsp;·&nbsp;
-  <a href="https://accounting.theabacus.org"><b>Accounting (web)</b></a> &nbsp;·&nbsp;
-  <a href="https://pdf.theabacus.org"><b>PDF (web)</b></a> &nbsp;·&nbsp;
-  <a href="https://theabacus.org"><b>Calculators (web)</b></a> &nbsp;·&nbsp;
-  <a href="https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335"><b>iOS App</b></a>
+  <a href="https://theabacusfoundation.org"><b>Foundation</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://accounting.theabacus.org"><b>Accounting</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://pdf.theabacus.org"><b>PDF</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://calculator.theabacus.org"><b>Calculators</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335"><b>iOS app</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://theabacusfoundation.org/projects"><b>Projects</b></a>
 </p>
-
-**Desktop app downloads (Windows, macOS, Linux):**  
-[Accounting — release v4.0.1](https://github.com/The-Abacus-Foundation/The-Abacus-App-Download/releases/tag/v4.0.1) &nbsp;·&nbsp; [Accounting — `assets/accounting/`](https://github.com/The-Abacus-Foundation/The-Abacus-App-Download/tree/main/assets/accounting) &nbsp;·&nbsp; [PDF — `assets/pdf/`](https://github.com/The-Abacus-Foundation/The-Abacus-App-Download/tree/main/assets/pdf)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:ec4899,50:10b981,75:f59e0b,100:0ea5e9&height=80&section=footer" width="100%" alt="divider" />
 
 </div>
 
 ---
 
+## What we stand for
+
+Technology should be useful without a subscription wall, a tracking script, or a lock-in clause. We build software people can actually own — then we teach enough of the stack that it keeps running.
+
+| Free to use | Private by default | Open where it matters | Built to last |
+| :---: | :---: | :---: | :---: |
+| No paywalls on the tools we publish | Work stays on your device whenever we can | Source is there to read and verify | Designed for small teams, not enterprise theatre |
+
+We also take on **pro-bono and client work** for nonprofits and small organizations: focused apps, not a pile of rented SaaS.
+
+---
+
+## Products
+
+Public tools anyone can open in a browser. No account required for the core workflows.
+
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🎯 Mission
+### [Accounting](https://accounting.theabacus.org)
 
-We believe technology should **empower people through transparency, trust, and education** — no lock-in, no tracking, no paywalls.
+Double-entry books sized for small businesses and nonprofits: invoices, expenses, reports, and a local SQLite workspace you control.
 
-We provide **pro-bono technology services** to other non-profits: mobile apps, web, cloud, and consulting.
+- Household, landlord, and business workflows
+- Offline-first, optional PIN encryption
+- 30+ currencies, no per-seat subscription
+
+[Open Accounting →](https://accounting.theabacus.org)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### ✨ Principles
+### [PDF](https://pdf.theabacus.org)
 
-| | |
-|:---:|---|
-| **🆓 Free** | No subscriptions, no paywalls |
-| **🔒 Private** | Your data stays on your device |
-| **📂 Open** | Open source — verify everything |
-| **♿ Accessible** | Clear design, works for everyone |
+Merge, split, compress, convert, organize, sign, and protect PDFs **on the device**. Files are not uploaded for the everyday tools.
+
+- Convert images, text, Markdown, and HTML
+- Watermark, annotate, e-sign, export
+- A private alternative to “upload and hope” PDF sites
+
+[Open PDF →](https://pdf.theabacus.org)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Calculators](https://calculator.theabacus.org)
+
+Fifty-eight-plus calculators across finance, fitness, math, engineering, and everyday utilities. Works offline after the first visit.
+
+- Loans, mortgage, refinance, tax, ROI
+- BMI, TDEE, unit conversion, GPA, fuel economy
+- Eleven currencies, no account, no ads
+
+[Open Calculators →](https://calculator.theabacus.org)
+
+</td>
+<td width="50%" valign="top">
+
+### [Abacus Calculators for iOS](https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335)
+
+The same calculator suite as a native app for **iPhone, iPad, and Mac** — Swift 6 and SwiftUI, built for people who want the tools in their pocket.
+
+- Same privacy-first calculator set
+- Native iOS, iPadOS, and macOS
+- Free on the App Store
+
+[View on the App Store →](https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335)
 
 </td>
 </tr>
@@ -62,129 +107,54 @@ We provide **pro-bono technology services** to other non-profits: mobile apps, w
 
 ---
 
-## 🛠️ What We Build
+## Projects for clients
 
-### Live products
+Products are what we publish for everyone. **Projects** are what we design and ship for a specific team — then leave them with software they can run and maintain.
 
-<table>
-<tr>
-<th width="28%">Product</th>
-<th>Description</th>
-</tr>
-<tr>
-<td><b><a href="https://accounting.theabacus.org">The Abacus Accounting</a></b><br><sub>Desktop: <a href="https://github.com/The-Abacus-Foundation/The-Abacus-App-Download/releases/tag/v4.0.1">download v4.0.1</a></sub></td>
-<td>Lightweight accounting for small business — use in the browser or install the desktop app (Windows, macOS, Linux).</td>
-</tr>
-<tr>
-<td><b><a href="https://pdf.theabacus.org">The Abacus PDF</a></b><br><sub>Desktop: <a href="https://github.com/The-Abacus-Foundation/The-Abacus-App-Download/tree/main/assets/pdf">installers in repo</a></sub></td>
-<td>Merge, split, compress, and convert PDFs in the browser — or use native installers from our download repo.</td>
-</tr>
-<tr>
-<td><b><a href="https://theabacus.org">The Abacus Calculators</a></b></td>
-<td>58+ free calculators (financial, fitness, math, engineering) — same privacy-first values as the rest of the suite; web and <a href="https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335">iOS</a>.</td>
-</tr>
-<tr>
-<td><b><a href="https://apps.apple.com/us/app/abacus-calculators-suite/id6756740335">Abacus iOS</a></b></td>
-<td>Native iOS, iPadOS &amp; macOS app built with Swift 6 and SwiftUI.</td>
-</tr>
-<tr>
-<td><b><a href="https://the-abacus-foundation.pages.dev">Foundation site</a></b></td>
-<td>Public site, project hub, volunteer program.</td>
-</tr>
-</table>
+### [Fuel Price Tracker](https://theabacusfoundation.org/projects/fuel-price-tracker)
 
-### 🚀 Coming soon
+A client build for people who feel every cent at the pump: drivers, delivery teams, and small fleets.
 
-<p>
-  <img src="https://img.shields.io/badge/Timesheet_monitoring-coming_soon-6366f1?style=flat-square" alt="" />
-  <img src="https://img.shields.io/badge/License_reminders-coming_soon-f59e0b?style=flat-square" alt="" />
-  <img src="https://img.shields.io/badge/Business_card_scanner-coming_soon-0ea5e9?style=flat-square" alt="" />
-  <img src="https://img.shields.io/badge/QR_generator-coming_soon-8b5cf6?style=flat-square" alt="" />
-  <img src="https://img.shields.io/badge/Asset_management-coming_soon-f43f5e?style=flat-square" alt="" />
-</p>
+- Watch **gas and diesel** across many stations and regions at once
+- Keep a history and chart the trend, not just today’s price
+- Highlight the cheapest fill-up near each stop
+- Plan routes and fuel budgets without a paid analytics subscription
+
+[See the project →](https://theabacusfoundation.org/projects/fuel-price-tracker)
+&nbsp;·&nbsp;
+[All projects →](https://theabacusfoundation.org/projects)
+
+Custom work like this is the same craft as our public products: small surface area, clear ownership, no mystery cloud you cannot leave.
 
 ---
 
-## 🤝 Get involved
+## How the software is built
 
-<table>
-<tr>
-<td width="33%" align="center">
+Useful context if you are evaluating the tools, contributing, or asking us to build something similar.
 
-**🙌 Use our tools**
-
-Try Accounting, PDF, Calculators, or the iOS app and share feedback.
-
-</td>
-<td width="33%" align="center">
-
-**💻 Contribute**
-
-Open issues, PRs, docs, and design — all welcome.
-
-</td>
-<td width="33%" align="center">
-
-**🤝 Partner**
-
-Non-profit? We offer pro-bono dev, infra, and consulting.
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-**🎓 Volunteer**
-
-Hands-on experience on real production apps.
-
-<a href="mailto:volunteer@theabacus.org"><img src="https://img.shields.io/badge/Apply-volunteer@theabacus.org-8b5cf6?style=for-the-badge" alt="Volunteer" /></a>
-
-</td>
-<td width="33%" align="center">
-
-**❤️ Support**
-
-Spread the word, report bugs, suggest features.
-
-<a href="mailto:contact@theabacus.org"><img src="https://img.shields.io/badge/Get_in_touch-contact@theabacus.org-10b981?style=for-the-badge" alt="Contact" /></a>
-
-</td>
-<td width="33%" align="center">
-
-**📂 Repos**
-
-<a href="https://github.com/The-Abacus-Foundation"><img src="https://img.shields.io/badge/GitHub-The--Abacus--Foundation-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-
-</td>
-</tr>
-</table>
+| Topic | How we do it |
+| --- | --- |
+| **Data** | Local-first. Accounting lives in a workspace file on the device. PDF tools run in the browser. Calculator inputs are not used as a marketing database. |
+| **Access** | Core product features are public. Optional advanced PDF AI features use a separate login when they need cloud compute. |
+| **Hosting** | Sites run on Cloudflare (Pages, Workers, edge network) so the tools stay fast worldwide. |
+| **License** | Organization default is **Apache License 2.0**. Individual repos may use MIT or another permissive license. |
 
 ---
 
-## 📬 Contact
+## Get involved
 
-<table>
-<tr>
-<th>Purpose</th>
-<th>Email</th>
-</tr>
-<tr><td>General</td><td><a href="mailto:contact@theabacus.org">contact@theabacus.org</a></td></tr>
-<tr><td>Support</td><td><a href="mailto:support@theabacus.org">support@theabacus.org</a></td></tr>
-<tr><td>Partners</td><td><a href="mailto:partners@theabacus.org">partners@theabacus.org</a></td></tr>
-<tr><td>Foundation & sponsors</td><td><a href="mailto:foundation@theabacus.org">foundation@theabacus.org</a></td></tr>
-<tr><td>Volunteer</td><td><a href="mailto:volunteer@theabacus.org">volunteer@theabacus.org</a></td></tr>
-<tr><td>Developers</td><td><a href="mailto:dev@theabacus.org">dev@theabacus.org</a></td></tr>
-</table>
+| Use the tools | Contribute | Partner |
+| :---: | :---: | :---: |
+| Try Accounting, PDF, Calculators, or the iOS app and tell us what broke or what is missing. | Open issues, pull requests, docs, and design work on this GitHub organization. | Nonprofits and small teams: we build focused software (trackers, internal tools, public sites) the way we built Fuel Price Tracker. |
+
+Start here: **[github.com/The-Abacus-Foundation](https://github.com/The-Abacus-Foundation)** · **[theabacusfoundation.org](https://theabacusfoundation.org)**
 
 ---
 
 <div align="center">
 
-**📄** Organization default: **Apache License 2.0** · Individual repos may use MIT or other permissive licenses.
+**Built for trust. Built for education.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,25:ec4899,50:10b981,75:f59e0b,100:0ea5e9&height=80&section=footer" width="100%" alt="footer" />
-
-### **Built for Trust. Built for Education.**
+The Abacus Foundation, Inc. · United States
 
 </div>
