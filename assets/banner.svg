@@ -3,29 +3,71 @@
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#042f2e"/>
       <stop offset="48%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#34d399"/>
-      <stop offset="50%" stop-color="#22d3ee"/>
-      <stop offset="100%" stop-color="#818cf8"/>
+      <stop offset="0%" stop-color="#14B8A6"/>
+      <stop offset="50%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#F97316"/>
     </linearGradient>
     <radialGradient id="glow" cx="18%" cy="30%" r="55%">
       <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.28"/>
       <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="tealD" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5EEAD4"/>
+      <stop offset="55%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#0D9488"/>
+    </linearGradient>
+    <linearGradient id="orangeD" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FDBA74"/>
+      <stop offset="55%" stop-color="#FB923C"/>
+      <stop offset="100%" stop-color="#EA580C"/>
+    </linearGradient>
+    <linearGradient id="frameD" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#64748B"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="glassD" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.55"/>
+      <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="bgD" cx="50%" cy="28%" r="80%">
+      <stop offset="0%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </radialGradient>
   </defs>
   <rect width="1280" height="320" fill="url(#bg)"/>
   <rect width="1280" height="320" fill="url(#glow)"/>
   <rect x="0" y="0" width="1280" height="4" fill="url(#accent)"/>
-  <g fill="none" stroke="#99f6e4" stroke-opacity="0.12" stroke-width="1">
-    <circle cx="1080" cy="160" r="90"/>
-    <circle cx="1080" cy="160" r="130"/>
-    <circle cx="1080" cy="160" r="170"/>
-  </g>
-  <g transform="translate(1048 128)" fill="none" stroke="#5eead4" stroke-width="6" stroke-linecap="round">
-    <rect x="0" y="0" width="64" height="64" rx="16"/>
-    <path d="M16 40h32M32 16v32"/>
+  <g transform="translate(1048 80) scale(0.0390625)">
+    <rect width="4096" height="4096" rx="896" fill="url(#bgD)"/>
+    <g transform="translate(2048 2048)">
+      <rect x="-1760" y="-1680" width="160" height="3360" rx="80" fill="url(#frameD)"/>
+      <rect x="1600" y="-1680" width="160" height="3360" rx="80" fill="url(#frameD)"/>
+      <rect x="-1680" y="-1140" width="3360" height="88" rx="44" fill="url(#frameD)"/>
+      <rect x="-1680" y="-44" width="3360" height="88" rx="44" fill="url(#frameD)"/>
+      <rect x="-1680" y="1052" width="3360" height="88" rx="44" fill="url(#frameD)"/>
+      <circle cx="-920" cy="-1096" r="300" fill="url(#tealD)"/>
+      <ellipse cx="-920" cy="-1148" rx="210" ry="160" fill="url(#glassD)"/>
+      <circle cx="0" cy="-1096" r="300" fill="url(#tealD)"/>
+      <ellipse cx="0" cy="-1148" rx="210" ry="160" fill="url(#glassD)"/>
+      <circle cx="920" cy="-1096" r="280" fill="url(#orangeD)"/>
+      <ellipse cx="920" cy="-1144" rx="196" ry="150" fill="url(#glassD)"/>
+      <circle cx="-1260" cy="0" r="280" fill="url(#tealD)"/>
+      <ellipse cx="-1260" cy="-48" rx="196" ry="148" fill="url(#glassD)"/>
+      <circle cx="-420" cy="0" r="300" fill="url(#orangeD)"/>
+      <ellipse cx="-420" cy="-52" rx="210" ry="160" fill="url(#glassD)"/>
+      <circle cx="420" cy="0" r="280" fill="url(#tealD)"/>
+      <ellipse cx="420" cy="-48" rx="196" ry="148" fill="url(#glassD)"/>
+      <circle cx="1260" cy="0" r="280" fill="url(#tealD)"/>
+      <ellipse cx="1260" cy="-48" rx="196" ry="148" fill="url(#glassD)"/>
+      <circle cx="-640" cy="1096" r="320" fill="url(#orangeD)"/>
+      <ellipse cx="-640" cy="1040" rx="224" ry="170" fill="url(#glassD)"/>
+      <circle cx="640" cy="1096" r="300" fill="url(#tealD)"/>
+      <ellipse cx="640" cy="1044" rx="210" ry="160" fill="url(#glassD)"/>
+    </g>
   </g>
   <text x="72" y="128" fill="#a7f3d0" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="600" letter-spacing="4">NON-PROFIT TECHNOLOGY</text>
   <text x="72" y="188" fill="#f8fafc" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="52" font-weight="700">The Abacus Foundation</text>
