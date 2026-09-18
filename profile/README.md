@@ -44,7 +44,7 @@ We also take on **pro-bono and client work** for nonprofits and small organizati
 
 ## Products
 
-Public tools anyone can open in a browser. No account required for the core workflows.
+Public tools anyone can open in a browser. No account required for the core workflows. All four sites use the same abacus mark (light/dark, tab, bookmark).
 
 <table>
 <tr>

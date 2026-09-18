@@ -15,3 +15,5 @@ The landing page people see at the organization is [`profile/README.md`](profile
 ## License
 
 Apache License 2.0. See [LICENSE](LICENSE).
+
+The four public web apps (hub, Accounting, PDF, Calculators) share one abacus mark. See each repo’s `docs/BRAND.md`.
